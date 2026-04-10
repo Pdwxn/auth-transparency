@@ -1,4 +1,3 @@
-// src/lib/providers.ts
 import Google from 'next-auth/providers/google'
 import GitHub from 'next-auth/providers/github'
 import Discord from 'next-auth/providers/discord'

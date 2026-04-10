@@ -1,4 +1,3 @@
-// src/app/layout.tsx
 import type { Metadata } from 'next'
 import { SessionProvider } from '@/components/SessionProvider'
 import './globals.css'
